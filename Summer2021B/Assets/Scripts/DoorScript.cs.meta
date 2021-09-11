@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e010ed6253cd5c4439019f535d1e135b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - openClip: {fileID: 8300000, guid: cf5249847b4da8c468880811d93651a4, type: 3}
+  - openCompleteClip: {fileID: 8300000, guid: bf4bed22be5d17a4ba03ddd509dd7e77, type: 3}
+  - closeClip: {fileID: 8300000, guid: cdecc679a2fefaf47a43dd604ac5f38b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
